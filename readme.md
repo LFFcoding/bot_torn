@@ -1,5 +1,5 @@
 Script Python
-Automated strength training in the TORN RPG game.
+Automated training and shoplift in the TORN RPG game.
 
 With
 Python3
