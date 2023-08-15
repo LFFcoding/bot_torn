@@ -1,0 +1,12 @@
+{
+    "hospital": ".icon15___IohoO > a:nth-child(1)",
+    "preso": ".icon16___Emf9t > a:nth-child(1)",
+    "bazar1xpath": "/html/body/div[5]/div/div[2]/div[2]/div[3]/div/ul/li[1]/span/span[1]/span/img",
+    "bazar1selector": "#item-market-main-wrap > div.shop-market-page > div > ul > li:nth-child(1) > span > span.item > span > img",
+    "bazar2xpath": "/html/body/div[5]/div/div[2]/div[2]/div[3]/div/ul/li[2]/span/span[1]/span/img",
+    "bazar2selector": "#item-market-main-wrap > div.shop-market-page > div > ul > li:nth-child(2) > span > span.item > span > img",
+    "crime-screen": "https://www.torn.com/crimes.php#/step=main",
+    "crime-shoplift": "#mainContainer > div.content-wrapper.summer > div.specials-cont-wrap.bottom-round.cont-gray > form > ul > li:nth-child(3) > ul > li.bonus.left",
+    "sweet-shop": "#mainContainer > div.content-wrapper.summer > div.specials-cont-wrap.bottom-round.cont-gray > form > ul > li.highlightSweetshop > ul > li.bonus.left",
+    "chocolate-bars": "#mainContainer > div.content-wrapper.summer > div.specials-cont-wrap.bottom-round.cont-gray > form > ul > li.highlightChocolatebars > ul > li.bonus.left"
+}
