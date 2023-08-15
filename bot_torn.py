@@ -82,11 +82,11 @@ while(True):
             energy = inter(energy.text)
             nerve = inter(driver.find_element(By.CSS_SELECTOR, selectors["nerve"]).text)
             print(f"Energy: " + str(energy) + " | " + "Nerve: " + str(nerve) + " " + tmst())
-            if energy > 5:
+            if energy >= 5:
                 treinar()
                 treinos += 1
                 print(f"Treinos: " + str(treinos))
-            elif nerve > 4:
+            elif nerve >= 4:
                 commitCrime()
                 crimes += 1
                 print(f"Crimes: " + str(crimes))
