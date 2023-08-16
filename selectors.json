@@ -16,6 +16,7 @@
     "bazar2xpath": "/html/body/div[5]/div/div[2]/div[2]/div[3]/div/ul/li[2]/span/span[1]/span/img",
     "bazar2selector": "#item-market-main-wrap > div.shop-market-page > div > ul > li:nth-child(2) > span > span.item > span > img",
     "crimescreen": "https://www.torn.com/crimes.php#/step=main",
+    "crimesfc": "#mainContainer > div.content-wrapper.summer > div.specials-cont-wrap.bottom-round.cont-gray > form > ul > li:nth-child(1) > ul > li.radio.right > div > label",
     "crimeshoplift": "#mainContainer > div.content-wrapper.summer > div.specials-cont-wrap.bottom-round.cont-gray > form > ul > li:nth-child(3) > ul > li.radio.right > div > label",
     "shopliftnext": "#do_crimes > button",
     "sweetshop": "#mainContainer > div.content-wrapper.summer > div.specials-cont-wrap.bottom-round.cont-gray > form > ul > li:nth-child(2) > ul > li.radio.right > div > label",
